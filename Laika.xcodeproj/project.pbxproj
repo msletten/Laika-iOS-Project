@@ -21,6 +21,7 @@
 		086FBFDD18E0F1BD0012516F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 086FBFBF18E0F1BD0012516F /* UIKit.framework */; };
 		086FBFE518E0F1BD0012516F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 086FBFE318E0F1BD0012516F /* InfoPlist.strings */; };
 		086FBFE718E0F1BD0012516F /* LaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 086FBFE618E0F1BD0012516F /* LaikaTests.m */; };
+		086FBFF118E0F2CA0012516F /* laikBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 086FBFF018E0F2CA0012516F /* laikBackground.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		086FBFE218E0F1BD0012516F /* LaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LaikaTests-Info.plist"; sourceTree = "<group>"; };
 		086FBFE418E0F1BD0012516F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		086FBFE618E0F1BD0012516F /* LaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LaikaTests.m; sourceTree = "<group>"; };
+		086FBFF018E0F2CA0012516F /* laikBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laikBackground.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		086FBFC218E0F1BD0012516F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				086FBFF018E0F2CA0012516F /* laikBackground.jpg */,
 				086FBFC318E0F1BD0012516F /* Laika-Info.plist */,
 				086FBFC418E0F1BD0012516F /* InfoPlist.strings */,
 				086FBFC718E0F1BD0012516F /* main.m */,
@@ -231,6 +234,7 @@
 			files = (
 				086FBFD418E0F1BD0012516F /* Images.xcassets in Resources */,
 				086FBFC618E0F1BD0012516F /* InfoPlist.strings in Resources */,
+				086FBFF118E0F2CA0012516F /* laikBackground.jpg in Resources */,
 				086FBFCF18E0F1BD0012516F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
